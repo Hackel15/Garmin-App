@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<fonts>
+	<font id="tinyFont" filename="tinyFont.fnt" filter="0123456789"/>
+	<font id="bigFont" filename="bigFont.fnt" filter="0123456789"/>
+	<font id="threeFont" filename="threeFont.fnt" filter="3"/>
+	<font id="twoFont" filename="twoFont.fnt" filter="2"/>
+	<font id="oneFont" filename="oneFont.fnt" filter="01"/>
+</fonts>
